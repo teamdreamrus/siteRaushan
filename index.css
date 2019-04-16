@@ -17,7 +17,7 @@
     color: #362f2d;
 }
 
-ul {
+#Novigation ul {
     list-style: none; 
     margin: 0;
     padding: 0;
@@ -30,7 +30,7 @@ ul {
   .topmenu > li:last-child {
     margin-right: 0;
   }
-  a {
+  #Novigation a {
     display: block;
     padding: 10px 15px;
     text-decoration: none;
